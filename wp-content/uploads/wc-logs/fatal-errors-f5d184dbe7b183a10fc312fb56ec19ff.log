@@ -6,3 +6,111 @@ Stack trace:
 #3 {main}
   thrown
 
+2017-11-19T20:03:50+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Esta es una pru...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Esta es una pru...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:04:23+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Esta es una pru...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Esta es una pru...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:16:05+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Esta es una pru...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Esta es una pru...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:31:59+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:32:38+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:33:31+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:36:49+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:38:05+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:39:24+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:39:58+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:40:10+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
+2017-11-19T20:45:23+00:00 CRITICAL Uncaught Error: Call to undefined function mb_internal_encoding() in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php:445
+Stack trace:
+#0 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php(462): mb_str_word_count('Este esn produc...', 0)
+#1 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/wpneotemplate/woocommerce/basic/include/loop/description.php(6): WPNEO_Frontend_Hook->limit_word_text('Este esn produc...', 130)
+#2 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(127): include('/var/www/html/M...')
+#3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
+#4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
+#5 /var/www/html/MyAppDroi
+
