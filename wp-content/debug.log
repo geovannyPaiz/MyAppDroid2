@@ -11,3 +11,4 @@ Stack trace:
 [19-Nov-2017 04:50:46 UTC] PHP Notice:  Undefined index: wpneo-form-contributor-show in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-campaign-submit-form.php on line 86
 [19-Nov-2017 04:50:46 UTC] PHP Notice:  Undefined index: wpneo-form-paypal in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-campaign-submit-form.php on line 87
 [19-Nov-2017 04:50:47 UTC] PHP Notice:  Undefined variable: paypal in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-campaign-submit-form.php on line 144
+[19-Nov-2017 19:52:07 UTC] Duo cookie with name: duo_wordpress_auth_cookie not found. Start two factor authentication. SSL: 
