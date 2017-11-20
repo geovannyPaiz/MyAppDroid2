@@ -422,3 +422,21 @@ Stack trace:
 #3 /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/wpneo-crowdfunding-template-functions.php(435): wpneo_crowdfunding_load_template('include/loop/de...')
 #4 /var/www/html/MyAppDroid2/wp-includes/class-wp-hook.php(286): wpneo_crowdfunding_loop_item_short_description('')
 #5 /var/www/html/MyAppDroid2/wp-includes/class-w in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-frontend-hook.php on line 445
+[20-Nov-2017 21:09:37 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:11:03 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:13:40 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:16:28 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:16:51 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:17:55 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:19:55 UTC] PHP Notice:  Undefined index: wpneo_show_contributor_table in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 472
+[20-Nov-2017 21:19:55 UTC] PHP Notice:  Undefined index: wpneo_mark_contributors_as_anonymous in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 476
+[20-Nov-2017 21:19:55 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:31:24 UTC] PHP Notice:  Undefined index: wpneo_show_contributor_table in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 472
+[20-Nov-2017 21:31:24 UTC] PHP Notice:  Undefined index: wpneo_mark_contributors_as_anonymous in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 476
+[20-Nov-2017 21:31:24 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:33:07 UTC] PHP Notice:  Undefined index: wpneo_show_contributor_table in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 472
+[20-Nov-2017 21:33:07 UTC] PHP Notice:  Undefined index: wpneo_mark_contributors_as_anonymous in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 476
+[20-Nov-2017 21:33:07 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
+[20-Nov-2017 21:34:42 UTC] PHP Notice:  Undefined index: wpneo_show_contributor_table in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 472
+[20-Nov-2017 21:34:42 UTC] PHP Notice:  Undefined index: wpneo_mark_contributors_as_anonymous in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 476
+[20-Nov-2017 21:34:42 UTC] PHP Notice:  Undefined index: wpneo_campaigner_paypal_id in /var/www/html/MyAppDroid2/wp-content/plugins/wp-crowdfunding/includes/woocommerce/class-wpneo-crowdfunding.php on line 480
